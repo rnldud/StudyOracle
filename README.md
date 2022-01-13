@@ -17,7 +17,7 @@ Oracle 학습 리포지토리
 - LIKE 문
 
 
-### 3일 차 학습
+### 3일차 학습
  - INNER JOIN 
  - OUTER JOIN (RIGHT,LEFT)
  - INSERT
