@@ -1,5 +1,8 @@
-#StudyOracle
+# StudyOracle
 Oracle 학습 리포지토리
+
+
+![오라클](https://cdn.digitaltoday.co.kr/news/photo/202112/429772_416230_1414.jpg)
 
 ### 1일차
 - oracle 소개 및 설치
